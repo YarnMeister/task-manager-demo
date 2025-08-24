@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-07-29T05:53:30.796Z",
+  "version": "1.0",
+  "totalTaskCount": 12,
+  "workTaskCount": 3,
+  "personalTaskCount": 7,
+  "rtseTaskCount": 2,
+  "tasks": [
+    {
+      "id": 1749610299780,
+      "description": "Better documentation for Pilot project at Epic level",
+      "category": "Connectors / API Pilot project",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "work",
+      "starred": false,
+      "originalPosition": {
+        "tabType": "work",
+        "category": "Connectors / API Pilot project"
+      }
+    },
+    {
+      "id": 1749610779405,
+      "description": "Design Program Governance structure",
+      "category": "Customer First / Program",
+      "contactPerson": "Bec",
+      "completed": false,
+      "tabType": "work",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1749687857905,
+      "description": "Update the new About section on JPD",
+      "category": "Customer First / Program",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "work",
+      "starred": true,
+      "originalPosition": {
+        "tabType": "work",
+        "category": "Customer First / Program"
+      }
+    },
+    {
+      "id": 1749794520155.4053,
+      "description": "New Amp - speakers",
+      "category": "Shopping",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1749866416489,
+      "description": "Prune plant in entrance",
+      "category": "Home improvement",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1749866936281.1772,
+      "description": "Investigate how to integrate invoices into Katana",
+      "category": "Katana improvements",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "rtse",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1750386907881.0454,
+      "description": "Set up shade for new car",
+      "category": "Weekend jobs",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1750386907881.9133,
+      "description": "Mow lawn",
+      "category": "Weekend jobs",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1751499648367.915,
+      "description": "Update REA searches ",
+      "category": "Ad hoc",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1751586591762.8672,
+      "description": "Update ING bank move saving to spending",
+      "category": "Emails/Online",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1751635972295.98,
+      "description": "Supplements for gymm ",
+      "category": "Research",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "personal",
+      "starred": false,
+      "originalPosition": null
+    },
+    {
+      "id": 1751942609834.0808,
+      "description": "Heatmap of Mine visits",
+      "category": "Board meeting tasks",
+      "contactPerson": "",
+      "completed": false,
+      "tabType": "rtse",
+      "starred": false,
+      "originalPosition": null
+    }
+  ]
+}
